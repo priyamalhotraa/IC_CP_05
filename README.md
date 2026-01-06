@@ -49,9 +49,9 @@ and pass/fail status for each student.
 
 2. Run the program:
   - On Linux / Mac:
-   ./student_mgmt
+   ./student_management
   - On Windows:
-    student_mgmt.exe
+    student_management.exe
 
 3. Follow the on-screen prompts for login and menu options.
 
